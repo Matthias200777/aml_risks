@@ -41,8 +41,7 @@ st.markdown("""
 RISK_TYPES = [
     "Suspicious transactions",
     "Misuse of client accounts", 
-    "Jurisdiction risk",
-    "Unusual source of funds"
+    "Jurisdiction risk"
 ]
 
 # App header
@@ -101,4 +100,5 @@ st.markdown("---")
 st.caption("""
 **Disclaimer:** This is a mock demonstration tool. All results are randomly generated and not based on actual client data. 
 No real compliance screening is being performed.
+
 """)
